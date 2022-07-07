@@ -9,7 +9,7 @@ The first version of this application will simply be a place to store your favor
 
 ### Technologies
 
--   [Prisma]()
--   [PostgreSQL]()
--   [React]()
--   [Docker]()
+-   [Prisma](https://www.prisma.io/)
+-   [PostgreSQL](https://www.postgresql.org/)
+-   [React](https://reactjs.org/)
+-   [Docker](https://www.docker.com/)
