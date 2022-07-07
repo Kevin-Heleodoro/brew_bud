@@ -1,0 +1,8 @@
+services:
+    db:
+        image: postgres
+        restart: always
+        environment:
+            - POSTGRES_PASSWORD=test
+            - POSTGRES_USER=me
+            - POSTGRES_DB=brew_bud_db
